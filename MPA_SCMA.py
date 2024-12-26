@@ -1,3 +1,10 @@
+"""@author:
+    Mr. GHOMRI Benmeziane Imad-Ddine,
+    Ph.D. Candidate in Digital Communications and Artificial Intelligence,
+    LTT Research Laboratory,
+    Abou Bekr-Belkaid University, Tlemcen, Algeria
+"""
+
 # (Available Codewords=4)
 def MPA_SCMA_4(y,F,codebook,dv,df,h,noise_power,B,iterations):
     n_users = codebook.shape[0]
